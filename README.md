@@ -3,4 +3,4 @@
 **Repo Version 0.0.0**
 
 ---
-In this repository you will find scripts, datasets, examples developped in the book ...
+In this repository you will find scripts, datasets, examples developped in the book
