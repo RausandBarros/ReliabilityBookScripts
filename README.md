@@ -17,7 +17,7 @@ In this repository you will find scripts, datasets, examples developped in the b
 ---
 ## 1. Repository description
 
-To facilitate the understanding of notebooks, we tried to minimize the call to external subfunctions. The advantage is that notebooks are independent and subfunctions are directly defined at the notebook level and are rather simple. The inconvenient is that several notebooks have the *same* subfunctions and that they might slightly differe form one to another... The reader should be aware of that.
+To facilitate the understanding of notebooks, we tried to minimize the call to external subfunctions. The advantage is that notebooks are independent and subfunctions are directly defined at the notebook level and are rather simple. The inconvenient is that several notebooks have the *same* subfunctions and that they might slightly differe from one to another... The reader should be aware of that.
 
 Below is a tree view of the repository relying on the book's sections numbering:
 ```
